@@ -1,5 +1,7 @@
 # UnityUtils
-Utility methods for unity which are not in unity shell
+Utility methods for unity which are not in unity shell.
+
+Feel free to take what you need :)
 
 ## Methods
 ### Math
